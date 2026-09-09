@@ -63,3 +63,5 @@ A machine-learning based project that analyzes website features to identify pote
 A security-focused system designed to detect suspicious file activities and help prevent potential ransomware attacks using real-time file monitoring.
 
 **Technologies:** Python • Flask • MySQL • HTML • CSS • JavaScript • Watchdog
+
+---
