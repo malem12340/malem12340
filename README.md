@@ -5,7 +5,7 @@
 
 🎓 MCA Student passionate about software development and technology.
 
-💻 Interested in **Software Development, Python, Java, SQL, and Machine Learning**.
+💻 Interested in **Software Development, Python, Java, SQL, HTML and Machine Learning**.
 
 🚀 I enjoy building practical projects and continuously improving my programming skills.
 
